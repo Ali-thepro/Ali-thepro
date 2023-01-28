@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
-<h3 align="center">A passionate Computer Science student in DCU, Ireland</h3>
+<h2 align="center">About me</h2>
 
-<p align="left"><img src="https://profile-counter.glitch.me/{Ali-thepro}/count.svg" alt="Ali-thepro's Total Visitors" /></p>
 
 - 🌱 I’m currently learning **Python, Javascript, Shell, HTML and CSS**
 - 🤔 Exploring and learning new things, like **cybersecurity, networks, shell scipting and Node.JS**
@@ -16,7 +15,7 @@
 </p>
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -26,6 +25,14 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 <br>
+
+<h2 align="center">Github Statistics:</h2>
+
+<h3 align="center">Total Visitors</h3>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Ali-thepro}/count.svg" alt="Ali-thepro's Total Visitors" /></p>
+
+<h3 align="center">Prolie Statistics</h3>
 
 <p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api?username=Ali-thepro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"
