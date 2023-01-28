@@ -28,5 +28,5 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ali-thepro&show_icons=true&theme=dark" alt="Ali-thepro's Profile Statistics" align="center" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ali-thepro&show_icons=true&theme=radical" alt="Ali-thepro's Profile Statistics" align="center"/></p>
 
