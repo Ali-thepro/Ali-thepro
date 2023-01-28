@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
 <h3 align="center">A passionate Computer Science student in DCU, Ireland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-thepro&label=Profile%20views&color=0e75b6&style=flat" alt="ali-thepro" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aliahmad20005" target="blank"><img src="https://img.shields.io/twitter/follow/aliahmad20005?logo=twitter&style=for-the-badge" alt="aliahmad20005" /></a> </p>
+
+![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
+
+<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
 
 - 🌱 I’m currently learning **Python, Javascript, Shell, HTML and CSS**
 - 🤔 Exploring and learning new things, like **cybersecurity, networks, shell scipting and Node.JS**
@@ -30,12 +32,14 @@
 <br>
 
 <p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-thepro&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=Ali-thepro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"
     alt="Ali-thepro" 
     bg_color=#808080/></p>
 
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ali-thepro&show_icons=true&theme=radical" alt="Ali-thepro's Profile Statistics" align="center"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Ali-thepro's Profile Statistics"/></p>
+
+
 
