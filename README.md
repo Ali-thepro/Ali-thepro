@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmad</h1>
 <h3 align="center">A passionate Computer Science student in DCU, Ireland</h3>
 
-
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
+<p align="left"><img src="https://profile-counter.glitch.me/{Ali-thepro}/count.svg" alt="Ali-thepro's Total Visitors" /></p>
 
 - 🌱 I’m currently learning **Python, Javascript, Shell, HTML and CSS**
 - 🤔 Exploring and learning new things, like **cybersecurity, networks, shell scipting and Node.JS**
