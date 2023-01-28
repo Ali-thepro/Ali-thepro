@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Computer Science student in DCU, Ireland</h3>
 
 
-
-![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
-
 <img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
 
 - 🌱 I’m currently learning **Python, Javascript, Shell, HTML and CSS**
