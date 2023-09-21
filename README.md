@@ -2,7 +2,7 @@
 <h2 align="center">About me</h2>
 
 
-- 🌱 I’m currently learning **Python, Javascript, Shell, HTML and CSS**
+- 🌱 I’m currently learning **Python, Javascript, Shell and C**
 - 🎓 Studying Computer Science at Dublin City University, Ireland
 
 
